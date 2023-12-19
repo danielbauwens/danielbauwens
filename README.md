@@ -1,5 +1,6 @@
-<div align="center">Hi there, I'm Daniel 👋     
+<div align="center">Hi there, I'm Daniel 👋     </div>
 
+<div align="center">
 <img src="./assets/me.jpg" alt="selfie" width="200"/>
 
 *This bundle of joy and messy hair is me.*

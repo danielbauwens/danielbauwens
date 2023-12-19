@@ -1,4 +1,4 @@
-<div align="center">Hi there, I'm Daniel 👋
+<div align="center">Hi there, I'm Daniel 👋     
 
 <img src="./assets/me.jpg" alt="selfie" width="200"/>
 
